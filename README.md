@@ -19,5 +19,5 @@
 
 10 -> TF_IDF
 
-
+11 -> Word2vec
 
