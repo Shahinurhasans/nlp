@@ -1,3 +1,4 @@
 01->Tokenization
-01->Stemming
+
+02->Stemming
 
