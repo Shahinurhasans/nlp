@@ -2,3 +2,5 @@
 
 02->Stemming
 
+03->Lemmatization
+
