@@ -1,9 +1,12 @@
-01->Tokenization
+01-> Tokenization
 
-02->Stemming
+02-> Stemming
 
-03->Lemmatization
+03-> Lemmatization
 
-03->Stop Word
+04-> Stop Word
+
+05->Parts Of Speech Tagging
+
 
 
