@@ -11,5 +11,9 @@
 
 06->Named_Entity_Recognition
 
+07-> One Hot Encoding
+
+08-> Bag Of Word
+
 
 
