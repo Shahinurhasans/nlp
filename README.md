@@ -15,5 +15,9 @@
 
 08-> Bag Of Word
 
+09-> N-gram
+
+10 -> TF_IDF
+
 
 
