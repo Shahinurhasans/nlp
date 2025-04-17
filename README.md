@@ -4,3 +4,6 @@
 
 03->Lemmatization
 
+03->Stop Word
+
+
